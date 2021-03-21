@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    color: white;
+    background-color: rgb(228, 26, 26);
+    align-items: center;
+}
+
+.nav_items {
+    display: flex;
+}
+
+.nav_item {
+    display: block;
+    margin: 0 1rem;
+    cursor: pointer;
+}
